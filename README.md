@@ -37,7 +37,7 @@ The repository is organized into various categories:
 ## 🔧 Usage
 Clone this repository for quick reference:
 ```bash
-git clone https://github.com/shru2010/linux-cheatsheet.git
+git clone https://github.com/Shraddha-Modhera/linux-cheatsheet.git
 cd linux-cheatsheet
 ```
 Each file contains detailed explanations and examples to help with daily Linux operations and advanced system administration tasks.
